@@ -1,0 +1,12 @@
+[submodule "Binarytree_api"]
+	path = Binarytree_api
+	url = git@github.com:sechchr22/Binarytree_API.git
+[submodule "Climate_Conditions_API"]
+	path = Climate_Conditions_API
+	url = git@github.com:sechchr22/Climate_Conditions_API.git
+[submodule "oowlish-django-app"]
+	path = oowlish-django-app
+	url = git@github.com:sechchr22/oowlish-django-app.git
+[submodule "Ininite-Puzzle"]
+	path = Ininite-Puzzle
+	url = git@github.com:sechchr22/Ininite-Puzzle.git
